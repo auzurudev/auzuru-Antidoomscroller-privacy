@@ -60,22 +60,26 @@ The App uses Google AdMob to serve ads.
 AdMob may collect anonymous identifiers to provide personalized or non-personalized ads, depending on your settings.
 For details, visit [Google’s Privacy Policy](https://policies.google.com/privacy).
 
-7. Children’s Privacy
+7. Advertising and Analytics
+
+Our app may collect and use the Android Advertising ID to deliver and measure ads, limit ad frequency, and detect fraud. This identifier is not linked to any personally identifiable information and can be reset or disabled by the user in their device settings.
+
+8. Children’s Privacy
 
 This App is not directed toward children under 13.
 We do not knowingly collect data from anyone under 13 years of age.
 
-8. Data Security
+9. Data Security
 
 Since all data is stored locally, your information never leaves your device.
 No external transmission means no third-party access to your data.
 
-9. Changes to This Policy
+10. Changes to This Policy
 
 We may update this Privacy Policy from time to time.
 The latest version will always be available at our official privacy policy URL.
 
-10. Contact
+11. Contact
 
 If you have any questions about this policy, contact us at:
 📧 [auzurudev@gmail.com]
