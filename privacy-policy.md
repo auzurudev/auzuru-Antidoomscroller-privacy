@@ -54,15 +54,19 @@ Usage Access Permission: To detect which app is currently in use and measure scr
 Overlay Permission: To show a break reminder screen when needed.
 These permissions are used exclusively for app functionality and not for data collection.
 
-6. Advertising
+## 6. Advertising
+The App uses **Appodeal** (which includes Google AdMob and other ad networks) to serve ads.
 
-The App uses Google AdMob to serve ads.
-AdMob may collect anonymous identifiers to provide personalized or non-personalized ads, depending on your settings.
-For details, visit [Google’s Privacy Policy](https://policies.google.com/privacy).
+These advertising partners may collect anonymous identifiers to provide personalized or non-personalized ads, depending on your settings and consent choices.
 
-7. Advertising and Analytics
+For details, visit:
+- [Appodeal Privacy Policy](https://www.appodeal.com/privacy-policy)
+- [Google's Privacy Policy](https://policies.google.com/privacy)
 
+## 7. Advertising and Analytics
 Our app may collect and use the Android Advertising ID to deliver and measure ads, limit ad frequency, and detect fraud. This identifier is not linked to any personally identifiable information and can be reset or disabled by the user in their device settings.
+
+We use a Consent Management Platform (CMP) to obtain user consent for personalized advertising in regions where required (such as the EEA and UK).
 
 8. Children’s Privacy
 
