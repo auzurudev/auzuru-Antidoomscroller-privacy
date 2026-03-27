@@ -1,130 +1,64 @@
-🛡️ Privacy Policy for Anti-Doom Scroller
+  🛡️ Privacy Policy for Anti-Doom Scroller
+  Last updated: March 27, 2026
 
-Last updated: December 21, 2025
+  1. Introduction
+  Anti-Doom Scroller ("the App", "we", "our", or "us") is developed and published by Auzuru. This Privacy Policy
+  explains how the App handles information and data on your device.
 
-1. Introduction
+  2. Information We Collect
+  The App does not collect or share personal information with us. All usage data is stored locally on your device only.
 
-Anti-Doom Scroller (“the App”, “we”, “our”, or “us”) is developed and published by Auzuru.
-This Privacy Policy explains how information is handled when you use the App.
+  The App may access limited data locally for functionality:
 
-We care about transparency and data minimization. The App itself does not require user accounts and does not store personal information on our servers.
+  - App usage time: Measured via Android's Usage Access permission to calculate doomscrolling time on selected apps.
+  - Ad interactions: Google AdMob may collect anonymized usage data and device identifiers to display ads. This data is
+  handled entirely by Google and is subject to their privacy policy.
 
-2. Information We Collect
-2.1 Information Collected by the App
+  3. Data Storage and Retention
+  All collected data (such as daily and total doomscrolling time) is stored locally on your device only. Daily data
+  resets automatically at a user-configured time each day. All app data is permanently deleted when you uninstall the
+  app. No remote storage or cloud synchronization is used.
 
-The App does not collect, store, or transmit personal data to our own servers.
+  4. Data Deletion
+  Since no personal data is stored remotely, you can delete all app data by clearing the app's storage in Android
+  settings or by uninstalling the app.
 
-The following data is processed locally on your device only for core functionality:
+  5. Permissions Used
 
-App usage time
-Used to measure time spent in selected “doomscrolling” apps via Android’s Usage Access permission.
+  - Usage Access Permission: To detect which app is currently in use and measure screen time on selected apps. Used
+  exclusively for app functionality.
+  - Overlay Permission (Display over other apps): To show a break reminder screen when needed.
+  - Notifications Permission: To display the background monitoring notification required by Android for foreground
+  services.
+  - Modify Audio Settings: To temporarily mute audio during break reminders and restore it afterward.
+  - Ignore Battery Optimizations: To request that Android keeps the monitoring service running reliably in the
+  background.
+  - Internet / Network State: Used by Google AdMob to serve and measure ads.
 
-Local settings & counters
-Such as daily and total usage time, cycle length, and break timers.
+  None of these permissions are used to collect or transmit personal data by us.
 
-This data never leaves your device.
+  6. Advertising
+  The App uses Google AdMob to serve ads. AdMob may collect and use the Android Advertising ID to deliver and measure
+  ads, limit ad frequency, and detect fraud. This identifier is not linked to any personally identifiable information
+  and can be reset or disabled in your device settings.
 
-2.2 Information Collected by Advertising (Third-Party SDK)
+  We do not track users across apps or websites. Google AdMob may do so for ad personalization purposes — see
+  https://policies.google.com/privacy for full details.
 
-The App displays ads using the Start.io advertising SDK.
+  We use Google's User Messaging Platform (UMP) to obtain your consent for personalized advertising in regions where
+  required (such as the EEA and UK). You can update your consent choice at any time through your device settings.
 
-Start.io may collect and process certain information independently of us for advertising and analytics purposes, which may include:
+  7. Children's Privacy
+  This App is not directed toward children under 13. We do not knowingly collect data from anyone under 13 years of age.
 
-Android Advertising ID
+  8. Data Security
+  Since all app data is stored locally on your device, it never leaves your device through us. No external transmission
+  means no third-party access to your personal data by us. Google AdMob's data handling is governed by Google's own
+  security practices.
 
-IP address
+  9. Changes to This Policy
+  We may update this Privacy Policy from time to time. The latest version will always be available at this URL: https://auzurudev.github.io/auzuru-Antidoomscroller-privacy/
+  Continued use of the App after changes constitutes acceptance of the updated policy.
 
-Device information (device model, OS version, language)
-
-Approximate location (derived from IP)
-
-Ad interaction and usage data
-
-This data is used to:
-
-Deliver and measure ads
-
-Limit ad frequency
-
-Detect fraud
-
-Provide personalized or non-personalized advertising, depending on user consent and settings
-
-We do not have direct access to this data.
-
-For full details, please review Start.io’s privacy policy:
-👉 https://www.start.io/policy/privacy-policy/
-
-3. Data Storage and Retention
-
-All app-generated data (usage time, timers) is stored locally on your device only
-
-Daily usage data resets automatically
-
-No cloud storage, backups, or synchronization are used
-
-All local data is deleted when the app is uninstalled
-
-Advertising data collected by Start.io is governed by Start.io’s own retention policies.
-
-4. Data Deletion
-
-Since we do not store personal data remotely, you can delete all locally stored data by:
-
-Clearing the app’s storage in Android settings, or
-
-Uninstalling the app
-
-For advertising-related data, refer to Start.io’s privacy controls and your device’s ad settings.
-
-5. Permissions Used
-
-The App requests the following permissions:
-
-Usage Access
-To detect which apps are currently in use and calculate doomscrolling time.
-
-Overlay Permission
-To display break reminders over other apps.
-
-These permissions are used only for app functionality and not for user profiling.
-
-6. Advertising & User Controls
-
-The App uses Start.io to display ads.
-
-Ad Personalization & Opt-Out
-
-You can opt out of personalized ads via Android system settings
-(Settings → Privacy → Ads → Opt out of Ads Personalization)
-
-You can reset your Advertising ID at any time
-
-In regions where required (e.g. EEA, UK), consent for personalized ads is requested via a consent mechanism
-
-More information:
-👉 https://www.start.io/policy/privacy-policy/
-
-7. Children’s Privacy
-
-Anti-Doom Scroller is not directed to children under the age of 13.
-We do not knowingly collect personal data from children.
-
-8. Data Security
-
-The App does not transmit user data to our servers
-
-All usage data remains on the device
-
-Advertising data security is handled by Start.io under their own policies
-
-9. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-The most current version will always be available at this URL.
-
-10. Contact
-
-If you have questions about this Privacy Policy, contact:
-
-📧 auzurudev@gmail.com
+  10. Contact
+  If you have any questions about this policy, contact us at: 📧 auzurudev@gmail.com
